@@ -10734,11 +10734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Documentos\\Proyectos VS2022\\LogisticaAPI\\LogisticaAPI\\LogisticaAPI.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Escritorio\\LogisticaAPI\\LogisticaAPI\\LogisticaAPI.csproj",
       "projectName": "LogisticaAPI",
-      "projectPath": "D:\\OneDrive\\Documentos\\Proyectos VS2022\\LogisticaAPI\\LogisticaAPI\\LogisticaAPI.csproj",
+      "projectPath": "D:\\OneDrive\\Escritorio\\LogisticaAPI\\LogisticaAPI\\LogisticaAPI.csproj",
       "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Documentos\\Proyectos VS2022\\LogisticaAPI\\LogisticaAPI\\obj\\",
+      "outputPath": "D:\\OneDrive\\Escritorio\\LogisticaAPI\\LogisticaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
